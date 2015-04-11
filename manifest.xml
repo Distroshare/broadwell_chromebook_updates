@@ -12,5 +12,13 @@
     <package name="xf86-input-cmt">
     </package>
   </packages_to_install>
+  <repos_to_add>
+    <repo address="ppa:hugegreenbug/cmt2">
+    </repo>
+    <repo address="http://www.distroshare.com/apt">
+    </repo>
+    <repo address="http://www.distroshare.com/apt_broadwell">
+    </repo>
+  </repos_to_add>
 </data>
 
