@@ -5,12 +5,6 @@
   <packages_to_hold>
   </packages_to_hold>
   <packages_to_install>
-    <package name="linux-image-4.0.5-2-hgb.hotplug">
-    </package>
-    <package name="linux-firmware-image-4.0.5-2-hgb.hotplug">
-    </package>
-    <package name="linux-headers-4.0.5-2-hgb.hotplug">
-    </package>
   </packages_to_install>
    <repos_to_add>
   </repos_to_add>
